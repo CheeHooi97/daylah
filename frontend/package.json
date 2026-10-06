@@ -1,0 +1,35 @@
+{
+  "name": "daylah-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build && node scripts/prerender.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test src/features/calendar/calendar.test.mjs scripts/seo.test.mjs",
+    "build:mobile": "tsc --noEmit && vite build --mode mobile && node scripts/prepare-mobile.mjs",
+    "cap:sync": "npm run build:mobile && cap sync android",
+    "cap:android": "npm run cap:sync && cap open android",
+    "android:debug": "npm run cap:sync && node scripts/build-android.mjs"
+  },
+  "dependencies": {
+    "@capacitor/app": "8.1.1",
+    "@capacitor/clipboard": "8.0.0",
+    "@capacitor/core": "8.5.1",
+    "@capacitor/preferences": "8.0.1",
+    "@capacitor/share": "8.0.1",
+    "@js-temporal/polyfill": "0.5.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@capacitor/android": "8.5.1",
+    "@capacitor/cli": "8.5.1",
+    "@types/react": "19.2.15",
+    "@types/react-dom": "19.2.4",
+    "@vitejs/plugin-react": "4.7.0",
+    "typescript": "5.9.3",
+    "vite": "6.4.1"
+  }
+}

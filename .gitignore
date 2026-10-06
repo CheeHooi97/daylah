@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.cache/
+.env
+*.exe
+output/
+.idea/
+.impeccable/review/
+*.jks
+*.keystore
+.env.local
+.env.*.local
+
+frontend/.env*.local
+frontend/android/local.properties
+frontend/android/.gradle/
+frontend/android/**/build/

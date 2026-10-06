@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DayLah</string>
+    <string name="title_activity_main">DayLah</string>
+    <string name="package_name">my.daylah.app</string>
+    <string name="custom_url_scheme">my.daylah.app</string>
+</resources>

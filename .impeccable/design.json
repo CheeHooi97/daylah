@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-04T04:21:19.080Z",
+  "title": "Design System: DayLah",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Calendar Indigo",
+        "canonical": "#4338ca",
+        "tonalRamp": [
+          "oklch(15% 0.21458 277.02)",
+          "oklch(27% 0.21458 277.02)",
+          "oklch(39% 0.21458 277.02)",
+          "oklch(51% 0.21458 277.02)",
+          "oklch(63% 0.21458 277.02)",
+          "oklch(75% 0.21458 277.02)",
+          "oklch(87% 0.21458 277.02)",
+          "oklch(95% 0.21458 277.02)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Deep Indigo",
+        "canonical": "#3327b0",
+        "tonalRamp": [
+          "oklch(15% 0.20341 275.66)",
+          "oklch(27% 0.20341 275.66)",
+          "oklch(39% 0.20341 275.66)",
+          "oklch(51% 0.20341 275.66)",
+          "oklch(63% 0.20341 275.66)",
+          "oklch(75% 0.20341 275.66)",
+          "oklch(87% 0.20341 275.66)",
+          "oklch(95% 0.20341 275.66)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15% 0.00000 89.88)",
+          "oklch(27% 0.00000 89.88)",
+          "oklch(39% 0.00000 89.88)",
+          "oklch(51% 0.00000 89.88)",
+          "oklch(63% 0.00000 89.88)",
+          "oklch(75% 0.00000 89.88)",
+          "oklch(87% 0.00000 89.88)",
+          "oklch(95% 0.00000 89.88)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Calendar Ink",
+        "canonical": "#202237",
+        "tonalRamp": [
+          "oklch(15% 0.03941 279.11)",
+          "oklch(27% 0.03941 279.11)",
+          "oklch(39% 0.03941 279.11)",
+          "oklch(51% 0.03941 279.11)",
+          "oklch(63% 0.03941 279.11)",
+          "oklch(75% 0.03941 279.11)",
+          "oklch(87% 0.03941 279.11)",
+          "oklch(95% 0.03941 279.11)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Quiet Slate",
+        "canonical": "#626478",
+        "tonalRamp": [
+          "oklch(15% 0.03167 280.71)",
+          "oklch(27% 0.03167 280.71)",
+          "oklch(39% 0.03167 280.71)",
+          "oklch(51% 0.03167 280.71)",
+          "oklch(63% 0.03167 280.71)",
+          "oklch(75% 0.03167 280.71)",
+          "oklch(87% 0.03167 280.71)",
+          "oklch(95% 0.03167 280.71)"
+        ]
+      },
+      "divider": {
+        "role": "neutral",
+        "displayName": "Fine Divider",
+        "canonical": "#e5e6ee",
+        "tonalRamp": [
+          "oklch(15% 0.01082 280.47)",
+          "oklch(27% 0.01082 280.47)",
+          "oklch(39% 0.01082 280.47)",
+          "oklch(51% 0.01082 280.47)",
+          "oklch(63% 0.01082 280.47)",
+          "oklch(75% 0.01082 280.47)",
+          "oklch(87% 0.01082 280.47)",
+          "oklch(95% 0.01082 280.47)"
+        ]
+      },
+      "control-border": {
+        "role": "neutral",
+        "displayName": "Control Stroke",
+        "canonical": "#d5d6e1",
+        "tonalRamp": [
+          "oklch(15% 0.01506 281.92)",
+          "oklch(27% 0.01506 281.92)",
+          "oklch(39% 0.01506 281.92)",
+          "oklch(51% 0.01506 281.92)",
+          "oklch(63% 0.01506 281.92)",
+          "oklch(75% 0.01506 281.92)",
+          "oklch(87% 0.01506 281.92)",
+          "oklch(95% 0.01506 281.92)"
+        ]
+      },
+      "soft": {
+        "role": "primary",
+        "displayName": "Pale Indigo",
+        "canonical": "#f0effd",
+        "tonalRamp": [
+          "oklch(15% 0.01870 289.33)",
+          "oklch(27% 0.01870 289.33)",
+          "oklch(39% 0.01870 289.33)",
+          "oklch(51% 0.01870 289.33)",
+          "oklch(63% 0.01870 289.33)",
+          "oklch(75% 0.01870 289.33)",
+          "oklch(87% 0.01870 289.33)",
+          "oklch(95% 0.01870 289.33)"
+        ]
+      },
+      "result-surface": {
+        "role": "primary",
+        "displayName": "Count Wash",
+        "canonical": "#f4f3fe",
+        "tonalRamp": [
+          "oklch(15% 0.01465 290.31)",
+          "oklch(27% 0.01465 290.31)",
+          "oklch(39% 0.01465 290.31)",
+          "oklch(51% 0.01465 290.31)",
+          "oklch(63% 0.01465 290.31)",
+          "oklch(75% 0.01465 290.31)",
+          "oklch(87% 0.01465 290.31)",
+          "oklch(95% 0.01465 290.31)"
+        ]
+      },
+      "result-ink": {
+        "role": "primary",
+        "displayName": "Count Ink",
+        "canonical": "#332777",
+        "tonalRamp": [
+          "oklch(15% 0.13045 283.82)",
+          "oklch(27% 0.13045 283.82)",
+          "oklch(39% 0.13045 283.82)",
+          "oklch(51% 0.13045 283.82)",
+          "oklch(63% 0.13045 283.82)",
+          "oklch(75% 0.13045 283.82)",
+          "oklch(87% 0.13045 283.82)",
+          "oklch(95% 0.13045 283.82)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus Violet",
+        "canonical": "#8176f0",
+        "tonalRamp": [
+          "oklch(15% 0.17705 284.23)",
+          "oklch(27% 0.17705 284.23)",
+          "oklch(39% 0.17705 284.23)",
+          "oklch(51% 0.17705 284.23)",
+          "oklch(63% 0.17705 284.23)",
+          "oklch(75% 0.17705 284.23)",
+          "oklch(87% 0.17705 284.23)",
+          "oklch(95% 0.17705 284.23)"
+        ]
+      },
+      "error": {
+        "role": "semantic",
+        "displayName": "Error Berry",
+        "canonical": "#a1223e",
+        "tonalRamp": [
+          "oklch(15% 0.16186 14.13)",
+          "oklch(27% 0.16186 14.13)",
+          "oklch(39% 0.16186 14.13)",
+          "oklch(51% 0.16186 14.13)",
+          "oklch(63% 0.16186 14.13)",
+          "oklch(75% 0.16186 14.13)",
+          "oklch(87% 0.16186 14.13)",
+          "oklch(95% 0.16186 14.13)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Quiet Surface",
+        "canonical": "#f7f7fc",
+        "tonalRamp": [
+          "oklch(15% 0.00662 286.28)",
+          "oklch(27% 0.00662 286.28)",
+          "oklch(39% 0.00662 286.28)",
+          "oklch(51% 0.00662 286.28)",
+          "oklch(63% 0.00662 286.28)",
+          "oklch(75% 0.00662 286.28)",
+          "oklch(87% 0.00662 286.28)",
+          "oklch(95% 0.00662 286.28)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Responsive hero title."
+      },
+      "count": {
+        "displayName": "Count",
+        "purpose": "Oversized result using tabular numerals."
+      }
+    },
+    "shadows": [
+      {
+        "name": "feedback-lift",
+        "value": "0 8px 28px rgba(32,34,55,.18)",
+        "purpose": "Fixed status message only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "navigation-scroll",
+        "value": "smooth",
+        "purpose": "Functional navigation and focus movement; reduced motion uses automatic scrolling."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "tablet",
+        "value": "1000px"
+      },
+      {
+        "name": "mobile",
+        "value": "700px"
+      },
+      {
+        "name": "small-mobile",
+        "value": "360px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Confident indigo for the principal action.",
+      "html": "<button class=\"ds-primary\">Save event</button>",
+      "css": ".ds-primary{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:var(--accent,#4338ca);color:#fff;border:1px solid var(--accent,#4338ca);border-radius:var(--control-radius,10px);padding:12px 18px;min-height:46px;font-weight:600;cursor:pointer}.ds-primary:hover{background:#3327b0}.ds-primary:disabled{opacity:.55;cursor:wait}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-text:focus-visible,.ds-field input:focus-visible,.ds-nav button:focus-visible{outline:3px solid var(--focus,#8176f0);outline-offset:3px}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined control for supporting actions.",
+      "html": "<button class=\"ds-secondary\">Copy result</button>",
+      "css": ".ds-secondary{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#fff;color:#303149;border:1px solid #d5d6e1;border-radius:var(--control-radius,10px);padding:12px 18px;min-height:46px;font-weight:600;cursor:pointer}.ds-secondary:hover{background:#f4f3fc;border-color:#a6a1df}.ds-secondary:disabled{opacity:.55;cursor:wait}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-text:focus-visible,.ds-field input:focus-visible,.ds-nav button:focus-visible{outline:3px solid var(--focus,#8176f0);outline-offset:3px}"
+    },
+    {
+      "name": "Text Action",
+      "kind": "button",
+      "description": "Indigo unboxed alternate date-entry action.",
+      "html": "<button class=\"ds-text\">Type date instead</button>",
+      "css": ".ds-text{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:none;border:0;padding:4px 0;min-height:36px;color:var(--accent,#4338ca);font-size:12px;font-weight:450;cursor:pointer}.ds-text:hover{background:#f4f3fc}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-text:focus-visible,.ds-field input:focus-visible,.ds-nav button:focus-visible{outline:3px solid var(--focus,#8176f0);outline-offset:3px}"
+    },
+    {
+      "name": "Date Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Sentence-case label above a stroked date input.",
+      "html": "<label class=\"ds-field\">Start date<input type=\"date\" value=\"2026-10-04\"></label>",
+      "css": ".ds-field{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:flex;flex-direction:column;gap:9px;font-size:14px;font-weight:600;color:#202237}.ds-field input{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#fff;border:1px solid #d5d6e1;border-radius:var(--control-radius,10px);padding:13px 12px;min-height:49px;color:#202237;caret-color:var(--accent,#4338ca)}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-text:focus-visible,.ds-field input:focus-visible,.ds-nav button:focus-visible{outline:3px solid var(--focus,#8176f0);outline-offset:3px}"
+    },
+    {
+      "name": "Mode Navigation",
+      "kind": "nav",
+      "description": "Icon and label controls with solid indigo selection.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Calculation mode\"><button aria-pressed=\"true\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 6h16M4 18h16M7 3v6M17 15v6M8 12h8m-3-3 3 3-3 3\"/></svg>Between dates</button><button aria-pressed=\"false\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 3v4m8-4v4M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1M12 12v3l2 1\"/></svg>Until a date</button></nav>",
+      "css": ".ds-nav{display:flex;gap:8px;padding:10px;background:#fbfbfe;border-bottom:1px solid var(--line,#e5e6ee)}.ds-nav button{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:transparent;color:var(--muted,#626478);border:1px solid transparent;border-radius:var(--control-radius,10px);padding:12px 18px;min-height:50px;font-size:14px;font-weight:600;cursor:pointer}.ds-nav button[aria-pressed=true]{background:var(--accent,#4338ca);color:#fff}.ds-nav button:hover{border-color:#a6a1df}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-text:focus-visible,.ds-field input:focus-visible,.ds-nav button:focus-visible{outline:3px solid var(--focus,#8176f0);outline-offset:3px} .ds-nav button{display:flex;align-items:center;gap:10px}"
+    },
+    {
+      "name": "Calculator Container",
+      "kind": "card",
+      "refersTo": "calculator",
+      "description": "Flat outlined grouping with gently rounded clipped edges.",
+      "html": "<section class=\"ds-card\"><h2>How many days between?</h2><p>Pick two dates to see the days between them.</p></section>",
+      "css": ".ds-card{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;border:1px solid var(--line,#e5e6ee);border-radius:var(--radius,16px);overflow:hidden;background:#fff;padding:34px;color:#202237}.ds-card h2{font-size:22px;margin:0 0 10px;letter-spacing:-.025em}.ds-card p{font-size:14px;color:var(--muted,#626478);line-height:1.55;margin:0}"
+    },
+    {
+      "name": "Count and Interval Strip",
+      "kind": "custom",
+      "refersTo": "result",
+      "description": "Large tabular result with a thin span and highlighted endpoints.",
+      "html": "<section class=\"ds-result\"><div class=\"ds-number\">82</div><div class=\"ds-unit\">days</div><p class=\"ds-detail\">Elapsed days, excluding the start date</p><div class=\"ds-strip\" aria-hidden=\"true\"><span class=\"ds-endpoint\"><small>Oct</small><b>4</b></span><span><small>Oct</small><b>18</b></span><span><small>Oct</small><b>31</b></span><span><small>Nov</small><b>14</b></span><span><small>Nov</small><b>28</b></span><span><small>Dec</small><b>11</b></span><span class=\"ds-endpoint\"><small>Dec</small><b>25</b></span></div></section>",
+      "css": ".ds-result{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f4f3fe;color:#332777;padding:26px 32px 32px;min-height:390px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}.ds-number{font-size:clamp(76px,8vw,104px);font-weight:750;font-variant-numeric:tabular-nums;letter-spacing:-.04em;line-height:1;overflow-wrap:anywhere;max-width:100%}.ds-unit{font-size:21px;margin:4px 0 12px}.ds-detail{font-size:12px;margin:0;color:#5f5689}.ds-strip{display:flex;width:100%;max-width:344px;margin:26px 0 4px;gap:5px;justify-content:space-between;position:relative}.ds-strip:before{content:\"\";position:absolute;height:1px;background:#c8c1ed;left:15px;right:15px;top:50%}.ds-strip span{position:relative;background:#f4f3fe;font-size:10px;min-width:26px;min-height:26px;display:grid;place-items:center;color:#7b70ad}.ds-strip .ds-endpoint{background:#e3dffc;border-radius:7px;color:#4338a1;padding:4px} .ds-strip span{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px;align-items:center;padding:8px 3px;border-radius:7px;color:#766a9e}.ds-strip small{font-size:10px}.ds-strip b{font-size:17px;font-weight:600;font-variant-numeric:tabular-nums}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Calendar Clarity",
+    "overview": "DayLah presents date arithmetic with the calm of an uncluttered calendar: white space, dark readable text, and confident indigo. The description names the shipped code-first system rather than a separate design comp. Its plain sans-serif voice follows the confirmed product brief.\n\nLarge counts carry the visual hierarchy. Light tonal surfaces group the calculator, while thin rules organize local events and holiday records. Motion serves navigation and focus movement; there is no constant animation.",
+    "keyCharacteristics": [
+      "White canvas and dark text with indigo emphasis.",
+      "Large tabular counts and a thin calendar interval strip.",
+      "Flat, gently rounded controls and quiet separators.",
+      "Responsive calculator followed by local events and holidays."
+    ],
+    "rules": [
+      {
+        "name": "The Stable Count Rule",
+        "body": "Use tabular numerals for large numeric results and event counts.",
+        "section": "typography"
+      },
+      {
+        "name": "The Quiet Surface Rule",
+        "body": "Keep ordinary calculator, editor and share containers flat; reserve the existing shadow for transient feedback.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the white canvas, dark text and default indigo accent.",
+      "Do use tabular numerals for large numeric results and event counts.",
+      "Do preserve thin interval lines and list separators.",
+      "Do keep visible keyboard focus and readable text feedback.",
+      "Do stack calculator content and lower lists at the established mobile breakpoint."
+    ],
+    "donts": [
+      "Don't add constant animation.",
+      "Don't turn optional event accent overrides into unverified full themes.",
+      "Don't add card shadows to ordinary flat surfaces.",
+      "Don't introduce a separate display font into the established system sans-serif identity."
+    ]
+  }
+}

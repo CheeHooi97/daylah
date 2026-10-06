@@ -1,0 +1,814 @@
+{
+  "country": "MY",
+  "year": 2027,
+  "status": "verified-schedule",
+  "scope": "Malaysia federal and state holiday schedule, 2027. Select a state or territory for applicable holidays. Replacement days and special additional gazettes are not included.",
+  "version": "2026-10-04.2",
+  "records": [
+    {
+      "country": "MY",
+      "name": "New Year’s Day",
+      "date": "2027-01-01",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kuala Lumpur, Labuan, Putrajaya, Melaka, Negeri Sembilan, Pahang, Perak, Penang, Sabah, Sarawak, Selangor"
+    },
+    {
+      "country": "MY",
+      "name": "Israk and Mikraj",
+      "date": "2027-01-06",
+      "states": [
+        "KDH",
+        "NSN",
+        "PLS",
+        "TRG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kedah, Negeri Sembilan, Perlis, Terengganu"
+    },
+    {
+      "country": "MY",
+      "name": "Birthday of the Yang di-Pertuan Besar of Negeri Sembilan",
+      "date": "2027-01-14",
+      "states": [
+        "NSN"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Negeri Sembilan"
+    },
+    {
+      "country": "MY",
+      "name": "Thaipusam",
+      "date": "2027-01-22",
+      "states": [
+        "KUL",
+        "PJY",
+        "JHR",
+        "NSN",
+        "PRK",
+        "PNG",
+        "SGR"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kuala Lumpur, Putrajaya, Johor, Negeri Sembilan, Perak, Penang, Selangor"
+    },
+    {
+      "country": "MY",
+      "name": "Federal Territory Day",
+      "date": "2027-02-01",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kuala Lumpur, Labuan, Putrajaya"
+    },
+    {
+      "country": "MY",
+      "name": "Chinese New Year",
+      "date": "2027-02-06",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Chinese New Year (second day)",
+      "date": "2027-02-07",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Awal Ramadan",
+      "date": "2027-02-08",
+      "states": [
+        "JHR",
+        "KDH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Johor, Kedah",
+      "note": "Official schedule marks this date as subject to change."
+    },
+    {
+      "country": "MY",
+      "name": "Declaration of Independence Day",
+      "date": "2027-02-20",
+      "states": [
+        "MLK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Melaka"
+    },
+    {
+      "country": "MY",
+      "name": "Nuzul Al-Quran",
+      "date": "2027-02-24",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "KTN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SGR",
+        "TRG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kuala Lumpur, Labuan, Putrajaya, Kelantan, Pahang, Perak, Perlis, Penang, Selangor, Terengganu"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Terengganu’s Installation Anniversary",
+      "date": "2027-03-04",
+      "states": [
+        "TRG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Terengganu"
+    },
+    {
+      "country": "MY",
+      "name": "Hari Raya Puasa",
+      "date": "2027-03-10",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "note": "Official schedule marks this date as subject to change.",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Hari Raya Puasa (second day)",
+      "date": "2027-03-11",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "note": "Official schedule marks this date as subject to change.",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Hari Raya Puasa (third day)",
+      "date": "2027-03-12",
+      "states": [
+        "MLK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Melaka"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Johor’s Birthday",
+      "date": "2027-03-23",
+      "states": [
+        "JHR"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Johor"
+    },
+    {
+      "country": "MY",
+      "name": "Good Friday",
+      "date": "2027-03-26",
+      "states": [
+        "SBH",
+        "SWK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sabah, Sarawak"
+    },
+    {
+      "country": "MY",
+      "name": "Governor of Sabah’s Birthday",
+      "date": "2027-03-30",
+      "states": [
+        "SBH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sabah"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Terengganu’s Birthday",
+      "date": "2027-04-26",
+      "states": [
+        "TRG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Terengganu"
+    },
+    {
+      "country": "MY",
+      "name": "Labour Day",
+      "date": "2027-05-01",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Arafat Day",
+      "date": "2027-05-16",
+      "states": [
+        "KTN",
+        "TRG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kelantan, Terengganu"
+    },
+    {
+      "country": "MY",
+      "name": "Hari Raya Haji",
+      "date": "2027-05-17",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "note": "Official schedule marks this date as subject to change.",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Raja of Perlis’s Birthday",
+      "date": "2027-05-17",
+      "states": [
+        "PLS"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Perlis"
+    },
+    {
+      "country": "MY",
+      "name": "Hari Raya Haji (second day)",
+      "date": "2027-05-18",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kedah, Kelantan, Perlis, Terengganu",
+      "note": "Official schedule marks this date as subject to change.",
+      "states": [
+        "KDH",
+        "KTN",
+        "PLS",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Vesak Day",
+      "date": "2027-05-20",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Hari Hol of Sultan Ahmad Shah",
+      "date": "2027-05-22",
+      "states": [
+        "PHG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Pahang"
+    },
+    {
+      "country": "MY",
+      "name": "Kaamatan Harvest Festival",
+      "date": "2027-05-30",
+      "states": [
+        "LBN",
+        "SBH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Labuan, Sabah"
+    },
+    {
+      "country": "MY",
+      "name": "Kaamatan Harvest Festival (second day)",
+      "date": "2027-05-31",
+      "states": [
+        "LBN",
+        "SBH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Labuan, Sabah"
+    },
+    {
+      "country": "MY",
+      "name": "Gawai Dayak",
+      "date": "2027-06-01",
+      "states": [
+        "SWK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sarawak"
+    },
+    {
+      "country": "MY",
+      "name": "Gawai Dayak (second day)",
+      "date": "2027-06-02",
+      "states": [
+        "SWK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sarawak"
+    },
+    {
+      "country": "MY",
+      "name": "Awal Muharam",
+      "date": "2027-06-06",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Yang di-Pertuan Agong’s Birthday",
+      "date": "2027-06-07",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Kedah’s Birthday",
+      "date": "2027-06-20",
+      "states": [
+        "KDH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kedah"
+    },
+    {
+      "country": "MY",
+      "name": "George Town World Heritage City Day",
+      "date": "2027-07-07",
+      "states": [
+        "PNG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Penang"
+    },
+    {
+      "country": "MY",
+      "name": "Governor of Penang’s Birthday",
+      "date": "2027-07-10",
+      "states": [
+        "PNG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Penang"
+    },
+    {
+      "country": "MY",
+      "name": "Hari Hol of Sultan Iskandar",
+      "date": "2027-07-11",
+      "states": [
+        "JHR"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Johor"
+    },
+    {
+      "country": "MY",
+      "name": "Sarawak Independence Day",
+      "date": "2027-07-22",
+      "states": [
+        "SWK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sarawak"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Pahang’s Birthday",
+      "date": "2027-07-30",
+      "states": [
+        "PHG"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Pahang"
+    },
+    {
+      "country": "MY",
+      "name": "Prophet Muhammad’s Birthday",
+      "date": "2027-08-15",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Governor of Melaka’s Birthday",
+      "date": "2027-08-24",
+      "states": [
+        "MLK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Melaka"
+    },
+    {
+      "country": "MY",
+      "name": "National Day",
+      "date": "2027-08-31",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Malaysia Day",
+      "date": "2027-09-16",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Kelantan’s Birthday",
+      "date": "2027-09-29",
+      "states": [
+        "KTN"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kelantan"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Kelantan’s Birthday (second day)",
+      "date": "2027-09-30",
+      "states": [
+        "KTN"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kelantan"
+    },
+    {
+      "country": "MY",
+      "name": "Governor of Sarawak’s Birthday",
+      "date": "2027-10-09",
+      "states": [
+        "SWK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sarawak"
+    },
+    {
+      "country": "MY",
+      "name": "Deepavali",
+      "date": "2027-10-28",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kuala Lumpur, Labuan, Putrajaya, Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Penang, Sabah, Selangor, Terengganu",
+      "note": "Official schedule marks this date as subject to change.",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Perak’s Birthday",
+      "date": "2027-11-05",
+      "states": [
+        "PRK"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Perak"
+    },
+    {
+      "country": "MY",
+      "name": "Sultan of Selangor’s Birthday",
+      "date": "2027-12-11",
+      "states": [
+        "SGR"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Selangor"
+    },
+    {
+      "country": "MY",
+      "name": "Christmas Eve",
+      "date": "2027-12-24",
+      "states": [
+        "SBH"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Sabah"
+    },
+    {
+      "country": "MY",
+      "name": "Christmas Day",
+      "date": "2027-12-25",
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Nationwide",
+      "states": [
+        "KUL",
+        "LBN",
+        "PJY",
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PRK",
+        "PLS",
+        "PNG",
+        "SBH",
+        "SWK",
+        "SGR",
+        "TRG"
+      ]
+    },
+    {
+      "country": "MY",
+      "name": "Israk and Mikraj",
+      "date": "2027-12-26",
+      "states": [
+        "KDH",
+        "NSN",
+        "PLS"
+      ],
+      "sourceUrl": "https://www.kabinet.gov.my/storage/2026/08/HKA_2027.pdf",
+      "verificationDate": "2026-10-04",
+      "jurisdiction": "Malaysia · Kedah, Negeri Sembilan, Perlis"
+    }
+  ]
+}

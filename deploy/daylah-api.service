@@ -1,0 +1,22 @@
+[Unit]
+Description=DayLah API
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+User=daylah
+Group=daylah
+WorkingDirectory=/opt/daylah/current
+EnvironmentFile=/etc/daylah/daylah.env
+ExecStart=/opt/daylah/current/daylah-api
+Restart=on-failure
+RestartSec=3
+UMask=0077
+TimeoutStopSec=20
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
